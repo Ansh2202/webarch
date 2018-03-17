@@ -1,0 +1,25 @@
+body {
+            font-family:Arial, Helvetica, sans-serif;
+            font-size:14px;
+            background-color:gray;
+         }
+         
+         label {
+            font-weight:bold;
+            width:100px;
+            font-size:14px;
+         }
+         
+         .box {
+            top:50%;
+            position:relative;
+            border:#666666 solid 1px;
+
+         }
+        .center{
+             position: absolute;
+             top: 30%;
+             left: 45%;
+             
+             
+    }
